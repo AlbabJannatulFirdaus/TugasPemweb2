@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+}
+
+p {
+    text-align: justify;
+    text-align: center;
+    color: rgb(250, 249, 249);
+    font-size: 10pt;
+    font-style: initial;
+}
+
+.navbar {
+    background-color: #f7be03;
+    padding: 40px;
+    text-align: right;
+}
+
+.navbar img {
+    width: 10%;
+    float: left;
+    margin-top: -20px;
+}
+
+h4 {
+    color: rgb(250, 249, 249);
+    float: left;
+    margin: auto;
+    font-size: 20pt;
+    font-style: initial;
+}
+
+h2 {
+    color: rgb(250, 249, 249);
+    font-size: 20pt;
+    font-style: initial;
+}
+
+a {
+    color: rgb(250, 249, 249);
+    text-decoration: none;
+    padding: 20px;
+}
+
+.navbar a:hover {
+    color: #FFFFFF;
+    background-color: #607D8B;
+}
+
+#main {
+    display: flex;
+}
+
+.box {
+    background-color: #f7be03;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    width: auto;
+}
+
+.box1 {
+    background-color: #f7be03;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.box1 img {
+    width: 30%;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(250, 249, 249);
+    font-size: 20pt;
+    font-style: initial;
+}
+
+img {
+    width: 80%;
+    border-radius: 8px;
+    padding: 4px;
+    margin: auto;
+    display: block;
+}
+
+button {
+    border: none;
+    padding: 10px 20px;
+    color: #f7be03;
+    background-color: #ffffff;
+}
+
+button:hover {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.footer {
+    background-color: #f7be03;
+    padding: 10px;
+    text-align: center;
+}
